@@ -1,6 +1,6 @@
 # CSC483 - Algorithms Analysis and Design Assignment
-**Student:** Eboka Favour Benedict  
-**Matriculation:** U2022/5570212  
+**Student:** Doherty ayomide victor 
+**Matriculation:** U2022/557103
 **Submission Date:** April 5, 2026
 
 ## Project Structure
